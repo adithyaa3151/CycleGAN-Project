@@ -60,10 +60,10 @@ The dataset consists of:
 ### Steps to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CycleGAN_Project.git
+   git clone https://github.com/adithyaa3151/CycleGAN-Project.git
 2. Navigate to the project directory:
    ```bash
-   cd CycleGAN_Project
+   cd CycleGAN-Project
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
