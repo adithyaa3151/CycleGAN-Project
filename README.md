@@ -76,6 +76,6 @@ The dataset consists of:
    python test.py --dataset dataset_name
 
 ### Results
--**Successful translation** between human and animal faces.
--**CycleGAN generalizes well** across different datasets.
--**Generated images maintain identity preservation** while transferring styles.
+- **Successful translation** between human and animal faces.
+- **CycleGAN generalizes well** across different datasets.
+- **Generated images maintain identity preservation** while transferring styles.
